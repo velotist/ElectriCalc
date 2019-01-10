@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ElectriCalculator</string>
+    <string name="res_txtView_calc">Berechne</string>
+    <string name="res_btn_voltage">Spannung</string>
+    <string name="res_btn_ampere">Strom</string>
+    <string name="res_btn_ohm">Widerstand</string>
+    <string name="res_btn_watt">Watt</string>
+    <string name="res_btn_kwh">kWh</string>
+    <string name="res_img_logo">My logo</string>
+    <string name="res_zero">0</string>
+    <string name="res_lbl_input1">Wert 1</string>
+    <string name="res_lbl_input2">Wert 2</string>
+    <string name="res_lbl_input3">Wert 3</string>
+</resources>
